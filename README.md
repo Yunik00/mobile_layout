@@ -1,10 +1,10 @@
-#Englis
+# Englis
 ---------------------------------------------------------------------------------------------
 Mobile layout project.
 The project was created with responsive design in mind. 
 The page moves and reorganizes its containers depending on the device from which it is viewed
 
-#Español
+# Español
 ---------------------------------------------------------------------------------------------
 Proyecto de maquetación movil.
 El proyecto fue creado con diseño responsivo en mente. 
